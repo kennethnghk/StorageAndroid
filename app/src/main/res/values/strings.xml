@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StorageAndroid</string>
+    <string name="msg_input_placeholder">Input your msg</string>
+    <string name="submit_btn">Submit</string>
+</resources>
